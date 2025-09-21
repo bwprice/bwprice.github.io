@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "Student Supervision"
+title: "Supervision"
 permalink: /supervision/
 author_profile: true
 ---
 
 {% include base_path %}
 
-I have had the privilege of supervising students at various career stages, from MSc projects to PhD dissertations and postdoctoral research. My supervision focuses on combining traditional taxonomic and ecological approaches with cutting-edge molecular and computational methods.
+I have had the privilege of supervising students at various career stages, from MSc projects to PhD dissertations and postdoctoral research. My projects tend to focus on combining traditional taxonomic and ecological approaches with cutting-edge molecular and computational methods.
 
 ## Postdoctoral Researchers
 
