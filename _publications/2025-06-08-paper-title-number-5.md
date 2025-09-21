@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "A review of the alderfly genus Leptosialis Esben-Petersen with description of a new species from South Africa"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: /publication/2012-leptosialis-review
+excerpt: 'Taxonomic review of the alderfly genus Leptosialis with morphological analysis and description of a new South African species.'
+date: 2012-06-01
+venue: 'ZooKeys'
+citation: '<strong>Price BW, Liu X, de Moor FC & Villet MH</strong> (2012). &quot;A review of the alderfly genus <i>Leptosialis</i> Esben-Petersen (Megaloptera, Sialidae) with description of a new species from South Africa.&quot; <i>ZooKeys</i> 201: 27-41.'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+This taxonomic study provides a comprehensive review of the alderfly genus Leptosialis, including detailed morphological descriptions and the formal description of a new species from South Africa, contributing to understanding of Megalopteran diversity.

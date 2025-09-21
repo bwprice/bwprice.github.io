@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Temperature-Body Size Responses in Insects: A Case Study of British Odonata"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2020-odonata-temperature-size
+excerpt: 'Investigation of temperature-body size relationships in British dragonflies and damselflies, examining climate change impacts.'
+date: 2020-11-01
+venue: 'Ecological Entomology'
+paperurl: 'https://doi.org/10/ggp284'
+citation: '<strong>Wonglersak R, Fenberg PB, Langdon PG, Brooks SJ & Price BW</strong> (2020). &quot;Temperature-Body Size Responses in Insects: A Case Study of British Odonata.&quot; <i>Ecological Entomology</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This research examines temperature-body size relationships in British Odonata (dragonflies and damselflies), providing important insights into how climate change may affect insect morphology and ecology.
