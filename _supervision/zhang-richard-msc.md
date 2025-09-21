@@ -4,9 +4,7 @@ collection: supervision
 category: msc
 permalink: /supervision/zhang-richard-msc
 excerpt: 'MSc graduate who completed a taxonomic revision of the mantid genus Deroplatys, resulting in published research.'
-date: 2023-01-01
-venue: 'Natural History Museum'
-location: "London, UK"
+year: 2024
 ---
 
 ## MSc Graduate (2023) - Published Research

@@ -4,9 +4,7 @@ collection: supervision
 category: msc
 permalink: /supervision/lu-jingzhi-msc
 excerpt: 'MSc student developing AI approaches for taxonomic identification of caddisfly larvae.'
-date: 2025-01-01
-venue: 'Natural History Museum'
-location: "London, UK"
+year: 2025
 ---
 
 ## MSc Student (2025)

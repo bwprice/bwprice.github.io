@@ -4,9 +4,7 @@ collection: supervision
 category: postdoc
 permalink: /supervision/moliner-cachazo-luis-postdoc
 excerpt: 'Postdoctoral researcher working on eDNA metabarcoding integration and freshwater invertebrate genomics.'
-date: 2024-01-01
-venue: 'Natural History Museum, London'
-location: "London, UK"
+year: 2025
 ---
 
 ## Postdoctoral Researcher (2024-2025)

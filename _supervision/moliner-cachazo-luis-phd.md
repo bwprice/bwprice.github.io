@@ -4,9 +4,7 @@ collection: supervision
 category: phd
 permalink: /supervision/moliner-cachazo-luis-phd
 excerpt: 'PhD graduate who studied ecological assembly rules in aquatic-terrestrial transition zones of the Okavango Delta.'
-date: 2020-01-01
-venue: 'King\'s College London / University College London / Natural History Museum'
-location: "London, UK"
+year: 2024
 ---
 
 ## PhD Graduate (2020-2024)

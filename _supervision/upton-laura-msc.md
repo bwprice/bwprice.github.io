@@ -4,9 +4,7 @@ collection: supervision
 category: msc
 permalink: /supervision/upton-laura-msc
 excerpt: 'MSc graduate who applied digital visualization tools and morphometrics to analyze wing characteristics in Calopteryx splendens.'
-date: 2015-01-01
-venue: 'Natural History Museum'
-location: "London, UK"
+year: 2016
 ---
 
 ## MSc Graduate (2015) - Published Research

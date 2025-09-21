@@ -4,9 +4,7 @@ collection: supervision
 category: postdoc
 permalink: /supervision/pereira-lyndall-postdoc
 excerpt: 'Postdoctoral researcher specializing in Southern African freshwater biodiversity through digitisation and DNA barcoding.'
-date: 2017-01-01
-venue: 'Natural History Museum, London'
-location: "London, UK"
+year: 2018
 ---
 
 ## Postdoctoral Researcher (2017-2018)

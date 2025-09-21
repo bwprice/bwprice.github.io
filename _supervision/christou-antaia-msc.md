@@ -4,9 +4,7 @@ collection: supervision
 category: msc
 permalink: /supervision/christou-antaia-msc
 excerpt: 'MSc graduate who investigated spatial and sexual differences in wing morphology of Calopteryx virgo using museum specimens.'
-date: 2016-01-01
-venue: 'Natural History Museum'
-location: "London, UK"
+year: 2017
 ---
 
 ## MSc Graduate (2016) - Published Research

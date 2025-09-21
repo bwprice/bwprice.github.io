@@ -4,9 +4,7 @@ collection: supervision
 category: phd
 permalink: /supervision/hollister-jack-phd
 excerpt: 'PhD candidate applying computer vision to natural history collections for ecological and conservation research.'
-date: 2021-01-01
-venue: 'University of Southampton / Natural History Museum'
-location: "Southampton, UK / London, UK"
+year: 2021
 ---
 
 ## PhD Candidate (2021-)

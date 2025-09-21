@@ -4,9 +4,7 @@ collection: supervision
 category: phd
 permalink: /supervision/wonglersak-rungtip-phd
 excerpt: 'PhD graduate who explored climate change impacts on aquatic insect body size and ecology across space and time.'
-date: 2016-01-01
-venue: 'University of Southampton / Natural History Museum'
-location: "Southampton, UK / London, UK"
+year: 2021
 ---
 
 ## PhD Graduate (2016-2021)

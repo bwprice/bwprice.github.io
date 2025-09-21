@@ -11,26 +11,23 @@ I have had the privilege of supervising students at various career stages, from 
 
 ## Postdoctoral Researchers
 
-{% for post in site.supervision %}
-  {% if post.category == 'postdoc' %}
-    {% include archive-single.html %}
-  {% endif %}
+{% assign postdocs = site.supervision | where: "category", "postdoc" | sort: "year" | reverse %}
+{% for post in postdocs %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ## PhD Students
 
-{% for post in site.supervision %}
-  {% if post.category == 'phd' %}
-    {% include archive-single.html %}
-  {% endif %}
+{% assign phds = site.supervision | where: "category", "phd" | sort: "year" | reverse %}
+{% for post in phds %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ## MSc Students
 
-{% for post in site.supervision %}
-  {% if post.category == 'msc' %}
-    {% include archive-single.html %}
-  {% endif %}
+{% assign mscs = site.supervision | where: "category", "msc" | sort: "year" | reverse %}
+{% for post in mscs %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ---

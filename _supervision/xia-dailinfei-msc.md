@@ -4,9 +4,7 @@ collection: supervision
 category: msc
 permalink: /supervision/xia-dailinfei-msc
 excerpt: 'MSc student developing AI-driven identification systems for beetle collections using machine learning and morphological analysis.'
-date: 2025-01-01
-venue: 'Natural History Museum'
-location: "London, UK"
+year: 2025
 ---
 
 ## MSc Student (2025)

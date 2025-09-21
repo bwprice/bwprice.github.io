@@ -4,9 +4,7 @@ collection: supervision
 category: phd
 permalink: /supervision/ching-christian-phd
 excerpt: 'PhD candidate developing methods to assess riparian ecosystem health through interdisciplinary approaches.'
-date: 2021-01-01
-venue: 'Natural History Museum / Imperial College / University of Southampton'
-location: "London, UK"
+year: 2021
 ---
 
 ## PhD Candidate (2021-)
