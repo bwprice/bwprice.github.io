@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
+A summary of my career.
+
 Education
 ======
 PhD Entomology (2010); BSc (Hons) Entomology (2006); BSc Entomology and Zoology (2005) Rhodes University, Makhanda (Grahamstown), South Africa.
 
-Work experience
+Employment history
 ======
 * 2013 – now: Curator, now Principal Curator (SCIC: Small Orders), Natural History Museum, UK.
 * 2011 – 2013: NSF Postdoctoral Fellow, University of Connecticut, USA. Host: Prof. Chris Simon
@@ -40,7 +42,6 @@ Measures of esteem
 	* ZooKeys (2014-)
 	* ZooTaxa (2013-2017)
 	* Biodiversity Data Journal (2014-2022)
-Trustee of the British Dragonfly Society (2016-2019); Royal Entomology Society - Handbook Advisory Group (2015-2018).
 
 Publications
 ======
