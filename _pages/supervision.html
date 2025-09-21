@@ -1,58 +1,34 @@
 ---
 layout: archive
-title: "Supervision"
+title: "Student Supervision"
 permalink: /supervision/
 author_profile: true
 ---
 
 {% include base_path %}
 
-I have had the privilege of supervising students at various career stages, from undergraduates to MSc/MRes projects, to PhD dissertations and postdoctoral research fellows. My supervision focuses on combining traditional taxonomic and ecological approaches with cutting-edge molecular and computational methods.
+I have had the privilege of supervising students at various career stages, from MSc projects to PhD dissertations and postdoctoral research. My supervision focuses on combining traditional taxonomic and ecological approaches with cutting-edge molecular and computational methods.
 
-## Current Students
+## Postdoctoral Researchers
 
-{% assign current_students = site.supervision | where_exp: "item", "item.date >= '2021-01-01'" | sort: 'category' %}
-
-### Postdoctoral Researchers
-{% for post in current_students %}
-  {% if post.category == 'postdoc' and post.date >= '2024-01-01' %}
+{% for post in site.supervision %}
+  {% if post.category == 'postdoc' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-### PhD Students  
-{% for post in current_students %}
-  {% if post.category == 'phd' and post.date >= '2021-01-01' %}
+## PhD Students
+
+{% for post in site.supervision %}
+  {% if post.category == 'phd' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-### MSc Students
-{% for post in current_students %}
-  {% if post.category == 'msc' and post.date >= '2025-01-01' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+## MSc Students
 
-## Completed Supervision
-
-### Former Postdoctoral Researchers
-{% for post in site.supervision reversed %}
-  {% if post.category == 'postdoc' and post.date < '2024-01-01' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-### PhD Graduates
-{% for post in site.supervision reversed %}
-  {% if post.category == 'phd' and post.date < '2021-01-01' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
-
-### MSc Graduates
-{% for post in site.supervision reversed %}
-  {% if post.category == 'msc' and post.date < '2025-01-01' %}
+{% for post in site.supervision %}
+  {% if post.category == 'msc' %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}
