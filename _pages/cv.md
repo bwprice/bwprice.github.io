@@ -11,54 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+PhD Entomology (2010); BSc (Hons) Entomology (2006); BSc Entomology and Zoology (2005) Rhodes University, Makhanda (Grahamstown), South Africa.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2013 – now: Curator, now Principal Curator (SCIC: Small Orders), Natural History Museum, UK.
+* 2011 – 2013: NSF Postdoctoral Fellow, University of Connecticut, USA. Host: Prof. Chris Simon
+* 2010 – 2011: SABI Postdoctoral Fellow, Albany Museum, South Africa. Hosts: Dr. Ferdy de Moor and Prof. Martin Villet
   
-Skills
+Measures of esteem
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* External grant reviewer 
+	* United Kingdom Research and Innovation (UKRI / NERC)
+	* National Research Foundation of South Africa, 
+	* National Research Foundation of Canada 
+	* National Research Foundation of Switzerland
+	* JRS Biodiversity Foundation.
+* Thesis examinations
+	* PhD: Rhodes University, University of Pretoria; University of Iceland
+	* MSc: Rhodes University
+* Professional appointments
+	* NERC-UKRI Panel (2025-)
+	* Executive Board BGE (2022-)
+	* Coordinator UKBOL (2021-)
+	* Scientific Advisory Board UKDNA working group (2018-)
+* Journal Editorships
+	* Natural History Collections and Museomics (2024-)
+	* ZooKeys (2014-)
+	* ZooTaxa (2013-2017)
+	* Biodiversity Data Journal (2014-2022)
+Trustee of the British Dragonfly Society (2016-2019); Royal Entomology Society - Handbook Advisory Group (2015-2018).
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
