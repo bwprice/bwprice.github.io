@@ -1,0 +1,62 @@
+---
+layout: archive
+title: "Student Supervision"
+permalink: /supervision/
+author_profile: true
+---
+
+{% include base_path %}
+
+I have had the privilege of supervising students at various career stages, from MSc projects to PhD dissertations and postdoctoral research. My supervision focuses on combining traditional taxonomic and ecological approaches with cutting-edge molecular and computational methods.
+
+## Current Students
+
+{% assign current_students = site.supervision | where_exp: "item", "item.date >= '2021-01-01'" | sort: 'category' %}
+
+### Postdoctoral Researchers
+{% for post in current_students %}
+  {% if post.category == 'postdoc' and post.date >= '2024-01-01' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+### PhD Students  
+{% for post in current_students %}
+  {% if post.category == 'phd' and post.date >= '2021-01-01' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+### MSc Students
+{% for post in current_students %}
+  {% if post.category == 'msc' and post.date >= '2025-01-01' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+## Completed Supervision
+
+### Former Postdoctoral Researchers
+{% for post in site.supervision reversed %}
+  {% if post.category == 'postdoc' and post.date < '2024-01-01' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+### PhD Graduates
+{% for post in site.supervision reversed %}
+  {% if post.category == 'phd' and post.date < '2021-01-01' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+### MSc Graduates
+{% for post in site.supervision reversed %}
+  {% if post.category == 'msc' and post.date < '2025-01-01' %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+---
+
+**Research Areas:** My supervision covers diverse topics including molecular systematics, digital natural history, computer vision applications, freshwater ecology, climate change biology, and taxonomic research. I particularly encourage interdisciplinary approaches that combine traditional biological expertise with modern computational and molecular methods.
