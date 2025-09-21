@@ -25,13 +25,13 @@ Measures of esteem
 ======
 * External grant reviewer 
 	* United Kingdom Research and Innovation (UKRI / NERC)
-	* National Research Foundation of South Africa, 
+	* National Research Foundation of South Africa
 	* National Research Foundation of Canada 
 	* National Research Foundation of Switzerland
-	* JRS Biodiversity Foundation.
+	* JRS Biodiversity Foundation
 * Thesis examinations
-	* PhD: Rhodes University, University of Pretoria; University of Iceland
-	* MSc: Rhodes University
+	* **PhD**: Rhodes University; University of Pretoria; University of Iceland
+	* **MSc**: Rhodes University
 * Professional appointments
 	* NERC-UKRI Panel (2025-)
 	* Executive Board BGE (2022-)
@@ -48,4 +48,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
