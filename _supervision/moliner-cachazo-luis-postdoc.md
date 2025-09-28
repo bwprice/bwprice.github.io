@@ -3,7 +3,7 @@ title: "Luis Moliner Cachazo"
 collection: supervision
 category: postdoc
 permalink: /supervision/moliner-cachazo-luis-postdoc
-excerpt: 'Postdoctoral researcher working on eDNA metabarcoding integration and freshwater invertebrate genomics.'
+excerpt: '2024-2025: Postdoctoral researcher working on freshwater eDNA metabarcoding integrated with Community Science.'
 year: 2025
 ---
 
