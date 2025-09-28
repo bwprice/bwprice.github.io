@@ -1,7 +1,7 @@
 ---
 title: "Biodiversity Genomics Europe (BGE)"
 collection: projects
-category: "research"
+category: "genomic"
 permalink: /projects/bge
 excerpt: 'A pan-European initiative establishing coordinated DNA barcoding and genome sequencing networks to enhance biodiversity understanding, monitoring, and conservation.'
 year: 2021

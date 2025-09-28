@@ -1,7 +1,7 @@
 ---
 title: "UK Barcode of Life (UKBOL)"
 collection: projects
-category: "research"
+category: "genomic"
 permalink: /projects/ukbol
 excerpt: 'National project generating a comprehensive DNA reference library for all UK species through barcode sequencing and museum specimen genome skimming.'
 year: 2020
