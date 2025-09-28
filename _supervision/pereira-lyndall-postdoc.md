@@ -3,7 +3,7 @@ title: "Lyndall Pereira"
 collection: supervision
 category: postdoc
 permalink: /supervision/pereira-lyndall-postdoc
-excerpt: 'Postdoctoral researcher specializing in Southern African freshwater biodiversity through digitisation and DNA barcoding.'
+excerpt: '2017-2018: Postdoctoral researcher specializing in Southern African freshwater biodiversity through digitisation and DNA barcoding.'
 year: 2018
 ---
 
@@ -25,6 +25,3 @@ Lyndall's postdoctoral research focused on documenting and understanding the fre
 
 **Research Outcomes:**
 Lyndall's work contributed significantly to our understanding of Southern African freshwater ecosystems and established important baseline data for biodiversity monitoring and conservation efforts. Her research produced several publications on freshwater macroinvertebrate communities and the application of molecular techniques to biodiversity assessment.
-
-**Background:**
-Lyndall brought extensive expertise in freshwater ecology and molecular systematics to her postdoctoral position, with particular strength in working with museum collections and developing molecular approaches for biodiversity research.

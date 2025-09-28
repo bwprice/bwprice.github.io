@@ -3,7 +3,7 @@ title: "Antaia Christou"
 collection: supervision
 category: msc
 permalink: /supervision/christou-antaia-msc
-excerpt: 'MSc graduate who investigated spatial and sexual differences in wing morphology of Calopteryx virgo using museum specimens.'
+excerpt: '2016: MSc graduate who investigated spatial and sexual differences in wing morphology of Calopteryx virgo using museum specimens.'
 year: 2017
 ---
 

@@ -3,7 +3,7 @@ title: "Dailinfei Xia"
 collection: supervision
 category: msc
 permalink: /supervision/xia-dailinfei-msc
-excerpt: 'MSc student developing AI-driven identification systems for beetle collections using machine learning and morphological analysis.'
+excerpt: '2025: MSc student developing AI-driven identification systems for beetle collections using machine learning and morphological analysis.'
 year: 2025
 ---
 
@@ -27,6 +27,3 @@ Beetles represent the most diverse group of animals on Earth, comprising approxi
 
 **Methodological Approach:**
 The project combines multiple approaches including image-based machine learning, morphometric analysis, and integration with existing taxonomic databases to create robust identification systems that can handle the vast morphological diversity within Coleoptera.
-
-**Expected Outcomes:**
-This research will contribute to the development of practical tools for museum curation and will advance our understanding of how AI can be effectively integrated into taxonomic workflows, potentially serving as a model for similar applications across other arthropod groups.

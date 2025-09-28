@@ -3,7 +3,7 @@ title: "Christian Ching"
 collection: supervision
 category: phd
 permalink: /supervision/ching-christian-phd
-excerpt: 'PhD candidate developing methods to assess riparian ecosystem health through interdisciplinary approaches.'
+excerpt: '2021-ongoing: PhD candidate developing methods to assess riparian ecosystem health through interdisciplinary approaches.'
 year: 2021
 ---
 
@@ -36,6 +36,3 @@ Riparian zones are among the most biodiverse and ecologically important habitats
 
 **Collaborative Approach:**
 This PhD represents a unique collaboration between academic institutions and conservation organizations, ensuring that the research outcomes will have direct practical applications in real-world conservation contexts. The involvement of Conservation International provides access to field sites and implementation opportunities globally.
-
-**Current Status:**
-Christian is developing innovative methodological approaches and testing them across multiple field sites, working towards completing his thesis while contributing to international conservation efforts.

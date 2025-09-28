@@ -3,7 +3,7 @@ title: "Richard Zhang"
 collection: supervision
 category: msc
 permalink: /supervision/zhang-richard-msc
-excerpt: 'MSc graduate who completed a taxonomic revision of the mantid genus Deroplatys, resulting in published research.'
+excerpt: '2023: MSc graduate who completed a taxonomic revision of the mantid genus Deroplatys, resulting in a published monograph.'
 year: 2024
 ---
 
@@ -35,6 +35,3 @@ Richard's work represents a significant contribution to mantid systematics, clar
 
 **Publication:**
 Zhang, J.-Z. & Price, B.W. (2024) Revision of the genus *Deroplatys* Westwood, 1839 (Mantodea: Deroplatyidae) with the description of three new species. *Zootaxa* 5445(1): 1-68.
-
-**Career Impact:**
-This published research demonstrates Richard's capability in systematic entomology and provides a strong foundation for potential further research in insect taxonomy and systematics.

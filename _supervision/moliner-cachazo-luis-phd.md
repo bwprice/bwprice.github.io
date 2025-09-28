@@ -3,7 +3,7 @@ title: "Luis Moliner Cachazo"
 collection: supervision
 category: phd
 permalink: /supervision/moliner-cachazo-luis-phd
-excerpt: 'PhD graduate who studied ecological assembly rules in aquatic-terrestrial transition zones of the Okavango Delta.'
+excerpt: '2020-2024: PhD graduate who studied ecological assembly rules in aquatic-terrestrial transition zones of the Okavango Delta.'
 year: 2024
 ---
 

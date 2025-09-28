@@ -3,7 +3,7 @@ title: "Jack Hollister"
 collection: supervision
 category: phd
 permalink: /supervision/hollister-jack-phd
-excerpt: 'PhD candidate applying computer vision to natural history collections for ecological and conservation research.'
+excerpt: '2021-2025: PhD candidate applying computer vision to natural history collections for ecological and conservation research.'
 year: 2021
 ---
 
@@ -28,6 +28,3 @@ Jack's PhD research is at the forefront of applying artificial intelligence and 
 
 **Research Significance:**
 Jack's research addresses a critical bottleneck in biological research - the vast amount of information stored in natural history collections that remains inaccessible due to the time-intensive nature of traditional specimen analysis. By developing automated approaches, his work has the potential to dramatically accelerate the pace of biodiversity research and enhance our understanding of ecological and evolutionary processes.
-
-**Current Status:**
-Jack is progressing well through his PhD programme, developing innovative computational approaches and publishing his findings in high-impact journals. His work represents an important contribution to the growing field of digital natural history and museum informatics.

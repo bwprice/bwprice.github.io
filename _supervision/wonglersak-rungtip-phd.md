@@ -3,7 +3,7 @@ title: "Rungtip Wonglersak"
 collection: supervision
 category: phd
 permalink: /supervision/wonglersak-rungtip-phd
-excerpt: 'PhD graduate who explored climate change impacts on aquatic insect body size and ecology across space and time.'
+excerpt: '2016-2021: PhD graduate who explored climate change impacts on aquatic insect body size and ecology across space and time.'
 year: 2021
 ---
 
@@ -38,6 +38,3 @@ Her research provided crucial insights into how aquatic insects, which form the 
 
 **PhD Outcome:**
 Rungtip successfully completed her PhD in 2021, producing several high-impact publications that have advanced our understanding of climate change impacts on freshwater ecosystems. Her work represents a significant contribution to the field of climate change biology.
-
-**Publications:**
-Her PhD research resulted in multiple peer-reviewed publications in leading journals, establishing her as an expert in temperature-size relationships in aquatic insects.
