@@ -23,13 +23,6 @@ My research projects span diverse areas including molecular systematics, digital
   {% include archive-single.html %}
 {% endfor %}
 
-## Collaborative Projects
-
-{% assign collab_projects = site.projects | where: "category", "collaboration" | sort: "year" | reverse %}
-{% for post in collab_projects %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Completed Projects
 
 {% assign completed_projects = site.projects | where: "status", "completed" | sort: "year" | reverse %}
@@ -38,5 +31,3 @@ My research projects span diverse areas including molecular systematics, digital
 {% endfor %}
 
 ---
-
-**Research Focus Areas:** My projects integrate traditional taxonomic and ecological approaches with cutting-edge molecular and computational methods. Key areas include biodiversity informatics, machine learning applications in biology, phylogenetic analysis, ecosystem assessment, and digital natural history collections.
